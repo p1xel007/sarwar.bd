@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(node -e \":*)",
+      "Bash(npx --yes sharp-cli --version)",
+      "Bash(gh auth status)",
+      "Bash(gh repo create p1xel007/sarwar.bd --public --description \"Personal portfolio & blog — sarwar.bd\" --source . --push)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sarwar Alam",
+  "short_name": "Sarwar Alam",
+  "description": "Full Stack Developer & Team Lead. 8+ years building lead distribution systems, SaaS platforms, and scalable web applications.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
