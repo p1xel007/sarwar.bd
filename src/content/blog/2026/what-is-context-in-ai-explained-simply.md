@@ -1,6 +1,6 @@
 ---
 title: "Context in AI: The One Concept Most People Get Wrong"
-pubDatetime: 2026-03-08T14:00:00.000+06:00
+pubDatetime: 2026-03-08T00:00:00.000+06:00
 description: "Context in AI is one of the most misunderstood concepts. This post breaks it down in plain English with real examples, no jargon, and no fluff. If you've ever wondered why ChatGPT forgets things or why AI sometimes gives weird answers, this is for you."
 featured: true
 tags:

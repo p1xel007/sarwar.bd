@@ -1,15 +1,9 @@
 ---
-// Analytics component for Vercel Analytics and Speed Insights
+// Vercel Web Analytics + Speed Insights
+import VercelAnalytics from '@vercel/analytics/astro';
 ---
 
-<!-- Vercel Analytics -->
-<script>
-  if (typeof window !== 'undefined' && import.meta.env.PROD) {
-    import('@vercel/analytics').then(({ inject }) => {
-      inject();
-    });
-  }
-</script>
+<VercelAnalytics />
 
 <!-- Vercel Speed Insights -->
 <script>
